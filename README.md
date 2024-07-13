@@ -43,4 +43,6 @@ This project focuses on developing a real-time sign language recognition system 
 
 The system achieved a high recognition accuracy for the selected hand gestures, demonstrating its effectiveness in recognizing Indian sign language in real-time.
 
-
+![Results 1](.images/results1.png)
+![Results 2](.images/results2.png)
+![Results 3](.images/results3.png)
