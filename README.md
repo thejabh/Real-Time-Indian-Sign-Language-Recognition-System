@@ -9,9 +9,6 @@ Welcome to the Real-Time Indian Sign Language Recognition System! This project a
 - [Tools and Technologies](#tools-and-technologies)
 - [Project Flow](#project-flow)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -46,20 +43,4 @@ This project focuses on developing a real-time sign language recognition system 
 
 The system achieved a high recognition accuracy for the selected hand gestures, demonstrating its effectiveness in recognizing Indian sign language in real-time.
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any changes or additions you would like to see.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact
-
-For any questions or feedback, please contact:
-
-- Name: [Your Name]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
-
-Thank you for your interest in the Real-Time Indian Sign Language Recognition System! We hope this project can contribute to better communication for individuals using Indian sign language.
